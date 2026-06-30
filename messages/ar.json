@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "title": "Vion Agency — وكالة تسويق رقمي وتصميم",
+    "description": "خدمات تسويق رقمي وتصميم احترافية تساعد نشاطك يكبر ويظهر بصورة قوية أمام عملائك."
+  },
+  "company": {
+    "name": "Vion Agency",
+    "phone": "+201039708957",
+    "email": "vionagency478@gmail.com"
+  },
+  "nav": {
+    "services": "خدماتنا",
+    "work": "أعمالنا",
+    "focus": "تركيزنا",
+    "contact": "تواصل معنا",
+    "cta": "ابدأ الآن"
+  },
+  "hero": {
+    "eyebrow": "وكالة إبداعية لعلامات تجارية جادة",
+    "headline": "نبني علامات تجارية تلفت الانتباه",
+    "intro": "Vion Agency وكالة إبداعية متكاملة تساعد العلامات التجارية الطموحة على النمو من خلال التصميم الذكي، والمحتوى القوي، والتسويق المعتمد على البيانات."
+  },
+  "services": {
+    "label": "خدماتنا",
+    "title": "أكثر ما",
+    "titleMuted": "نتميز به.",
+    "subtitle": "من هوية البراند إلى التسويق بالأداء، نتولى كل شيء لتتفرغ لما تتقنه.",
+    "items": [
+      "تصميمات جرافيك مؤثرة للسوشيال ميديا والإعلانات",
+      "تصميم وتطوير مواقع ويب مخصصة",
+      "إدارة استراتيجية للسوشيال ميديا",
+      "إعلانات ممولة وتسويق قائم على الأداء",
+      "تصميم الهوية التجارية والشعارات",
+      "إنتاج فيديو وما بعد الإنتاج",
+      "تصميم وتطوير تطبيقات الموبايل"
+    ]
+  },
+  "portfolio": {
+    "label": "أعمالنا",
+    "title": "نماذج من",
+    "titleMuted": "شغلنا.",
+    "subtitle": "نظرة مختارة على أعمال ويب وموبايل ومونتاج فيديو اتنفذت لدعم براندات وحملات حقيقية.",
+    "categories": [
+      {
+        "type": "web",
+        "title": "ويب",
+        "projects": [
+          {
+            "title": "Portfolio Website",
+            "links": [
+              {
+                "label": "زيارة الموقع",
+                "href": "https://belal-portfolio-sable.vercel.app/"
+              }
+            ]
+          },
+          {
+            "title": "Foodie Wagon",
+            "links": [
+              {
+                "label": "زيارة الموقع",
+                "href": "https://foodie-wagon-ezfo.vercel.app/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "mobile",
+        "title": "موبايل",
+        "projects": [
+          {
+            "title": "Flore App",
+            "links": [
+              {
+                "label": "App Store",
+                "href": "https://apps.apple.com/eg/app/flore-%D9%81%D9%84%D9%88%D8%B1/id6478376490"
+              }
+            ]
+          },
+          {
+            "title": "Meshareeb App",
+            "links": [
+              {
+                "label": "Play Store",
+                "href": "https://play.google.com/store/apps/details?id=com.vavisa.app.meshareeb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "title": "مونتاج فيديو",
+        "projects": [
+          {
+            "title": "Showreel",
+            "links": [
+              {
+                "label": "مشاهدة",
+                "href": "https://drive.google.com/file/d/1FAaNpa2X2S6xQfGe4lO_7DvQHzyto9w_/view"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "focus": {
+    "label": "تركيزنا",
+    "title": "مصممين",
+    "titleMuted": "للنمو.",
+    "statement": "إحنا هدفنا مش مجرد تصميم، لكن إننا نساعد حضرتك تبني براند قوي ويكون عندك شكل احترافي يجذب العملاء ويزود المبيعات.",
+    "pillars": [
+      "جودعالية في التصميم",
+      "سرعة في التنفيذ",
+      "متابعة مستمرة",
+      "أفكار تسويقية تناسب نشاطك",
+      "تطوير مستمر للصفحات والإعلانات"
+    ]
+  },
+  "contact": {
+    "label": "تواصل معنا",
+    "title": "يلا نكبر",
+    "titleMuted": "مع بعض.",
+    "description": "ولو تحب، نقدر نبدأ مع حضرتك بخطة مناسبة حسب نشاطك وميزانيتك، ونوريك نماذج من شغلنا السابق. حابب أعرف أكتر عن نشاط حضرتك علشان نقدر نقترح أفضل طريقة تساعدك تكبر أونلاين بشكل احترافي.",
+    "form": {
+      "name": "الاسم الكامل",
+      "namePlaceholder": "اسم حضرتك",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "you@company.com",
+      "phone": "رقم الهاتف",
+      "phonePlaceholder": "01XXXXXXXXX",
+      "business": "عن نشاطك",
+      "businessPlaceholder": "احكيلنا عن نشاطك وأهدافك...",
+      "submit": "إرسال الاستفسار",
+      "submitting": "جاري الإرسال..."
+    },
+    "validation": {
+      "nameRequired": "برجاء إدخال الاسم",
+      "emailRequired": "برجاء إدخال البريد الإلكتروني",
+      "emailInvalid": "برجاء إدخال بريد إلكتروني صحيح",
+      "phoneRequired": "برجاء إدخال رقم الهاتف",
+      "phoneInvalid": "برجاء إدخال رقم هاتف صحيح",
+      "businessRequired": "برجاء إخبارنا عن نشاطك"
+    },
+    "toast": {
+      "successTitle": "تم الإرسال!",
+      "successDescription": "هنتواصل مع حضرتك قريباً.",
+      "errorTitle": "حدث خطأ",
+      "errorDescription": "برجاء المحاولة مرة أخرى لاحقاً."
+    }
+  },
+  "footer": {
+    "tagline": "تسويق رقمي وتصميم احترافي يساعد نشاطك يتميز ويكبر.",
+    "rights": "جميع الحقوق محفوظة.",
+    "sections": {
+      "services": "خدماتنا",
+      "company": "الشركة"
+    },
+    "links": {
+      "services": "خدماتنا",
+      "focus": "تركيزنا",
+      "contact": "تواصل معنا"
+    }
+  },
+  "language": {
+    "en": "English",
+    "ar": "العربية"
+  },
+  "aiServices": {
+    "badge": "الذكاء الاصطناعي",
+    "title": "أتمتة أعمالك بالذكاء الاصطناعي",
+    "subtitle": "حلول ذكاء اصطناعي مخصصة لشركتك — من الردود الآلية للعملاء لتحليل البيانات والإعلانات.",
+    "cta": "استفسر عن خدمات الذكاء الاصطناعي"
+  },
+  "digitalMarketing": {
+    "number": "02",
+    "title": "التسويق الرقمي وإدارة السوشيال ميديا",
+    "subtitle": "نبني هويتك الرقمية ونوصل رسالتك للجمهور الصح"
+  }
+}

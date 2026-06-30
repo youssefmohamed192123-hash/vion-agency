@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "title": "Vion Agency — Digital Marketing & Design Agency",
+    "description": "Professional digital marketing and design services that help your business grow with a powerful, premium presence."
+  },
+  "company": {
+    "name": "Vion Agency",
+    "phone": "+201039708957",
+    "email": "vionagency478@gmail.com"
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Our Work",
+    "focus": "Our Focus",
+    "contact": "Contact",
+    "cta": "Get in touch"
+  },
+  "hero": {
+    "eyebrow": "Creative Agency for Brands That Mean Business",
+    "headline": "We Build Brands That Get Noticed",
+    "intro": "Vion Agency is a full-service creative agency helping ambitious brands grow through smart design, powerful content, and data-driven marketing."
+  },
+  "services": {
+    "label": "Our Services",
+    "title": "What We Do",
+    "titleMuted": "Best.",
+    "subtitle": "From brand identity to performance marketing — we handle it all, so you can focus on what you do best.",
+    "items": [
+      "High-Impact Graphic Design for Social Media & Advertising",
+      "Custom Website Design & Development",
+      "Strategic Social Media Management",
+      "Paid Ads & Performance Marketing",
+      "Brand Identity & Logo Design",
+      "Video Production & Post-Production",
+      "Mobile App Design & Development"
+    ]
+  },
+  "portfolio": {
+    "label": "Portfolio",
+    "title": "Selected",
+    "titleMuted": "work.",
+    "subtitle": "A focused look at recent web, mobile, and video work built to support real brands and campaigns.",
+    "categories": [
+      {
+        "type": "web",
+        "title": "Web",
+        "projects": [
+          {
+            "title": "Portfolio Website",
+            "links": [
+              {
+                "label": "Visit Website",
+                "href": "https://belal-portfolio-sable.vercel.app/"
+              }
+            ]
+          },
+          {
+            "title": "Foodie Wagon",
+            "links": [
+              {
+                "label": "Visit Website",
+                "href": "https://foodie-wagon-ezfo.vercel.app/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "mobile",
+        "title": "Mobile",
+        "projects": [
+          {
+            "title": "Flore App",
+            "links": [
+              {
+                "label": "App Store",
+                "href": "https://apps.apple.com/eg/app/flore-%D9%81%D9%84%D9%88%D8%B1/id6478376490"
+              }
+            ]
+          },
+          {
+            "title": "Meshareeb App",
+            "links": [
+              {
+                "label": "Play Store",
+                "href": "https://play.google.com/store/apps/details?id=com.vavisa.app.meshareeb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "video",
+        "title": "Video Editing",
+        "projects": [
+          {
+            "title": "Showreel",
+            "links": [
+              {
+                "label": "Watch",
+                "href": "https://drive.google.com/file/d/1FAaNpa2X2S6xQfGe4lO_7DvQHzyto9w_/view"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "focus": {
+    "label": "Our Focus",
+    "title": "Built for",
+    "titleMuted": "growth.",
+    "statement": "Our goal isn't just to design, but to help you build a resilient, strong brand with a professional appearance that captures customers and drives scaling sales.",
+    "pillars": [
+      "High Quality",
+      "Fast Execution",
+      "Continuous Follow-up",
+      "Tailored Marketing Ideas",
+      "Continuous Optimization for Pages & Ads"
+    ]
+  },
+  "contact": {
+    "label": "Contact Us",
+    "title": "Let's grow",
+    "titleMuted": "together.",
+    "description": "We can kickstart your growth with a tailored strategy optimized for your business scope and budget, and showcase our previous successful portfolios. We'd love to learn more about your business to map out the best online execution plan.",
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emaiaceholder": "you@company.com",
+      "phone": "Phone",
+      "phonePlaceholder": "01XXXXXXXXX",
+      "business": "About your business",
+      "businessPlaceholder": "Tell us about your business and goals...",
+      "submit": "Send inquiry",
+      "submitting": "Sending..."
+    },
+    "validation": {
+      "nameRequired": "Please enter your name",
+      "emailRequired": "Please enter your email",
+      "emailInvalid": "Please enter a valid email address",
+      "phoneRequired": "Please enter your phone number",
+      "phoneInvalid": "Please enter a valid Egyptian phone number",
+      "businessRequired": "Please tell us about your business"
+    },
+    "toast": {
+      "successTitle": "Message sent!",
+      "successDescription": "We'll get back to you shortly.",
+      "errorTitle": "Something went wrong",
+      "errorDescription": "Please try again later."
+    }
+  },
+  "footer": {
+    "tagline": "Professional digital marketing and design that helps your business stand out and scale.",
+    "rights": "All rights reserved.",
+    "sections": {
+      "services": "Services",
+      "company": "Company"
+    },
+    "links": {
+      "services": "Our Services",
+      "focus": "Our Focus",
+      "contact": "Contact"
+    }
+  },
+  "language": {
+    "en": "English",
+    "ar": "العربية"
+  },
+  "aiServices": {
+    "badge": "AI Services",
+    "title": "Automate Your Business with AI",
+    "subtitle": "Custom AI solutions for your business — from automated customer responses to data analysis and ad production.",
+    "cta": "Inquire About AI Services"
+  },
+  "digitalMarketing": {
+    "number": "02",
+    "title": "Digital Marketing & Social Media Management",
+    "subtitle": "We build your digital identity and reach the right audience at scale"
+  }
+}
